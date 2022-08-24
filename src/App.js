@@ -105,7 +105,7 @@ function App() {
         });
     }
   }, [selectedCollege, isAnalysisPage]);
-
+//ok
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
