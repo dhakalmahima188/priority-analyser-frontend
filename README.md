@@ -13,7 +13,7 @@ This repository is a frontend for **BE Admission Rank and Priority Analyzer** pr
 ## Links
 
 > - Frontend : <https://github.com/dhakalmahima188/priority-analyser-frontend>
-> - Backend : <https://github.com/dhakalmahima188/priority-analyzer-backend>
+> - Backend : <https://github.com/dhakalmahima188/priority-analyser-backend>
 
 ## Usage
 
